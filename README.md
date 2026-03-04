@@ -4,7 +4,7 @@ Control de versiones para la gestión de requisitos
 
 Sistema SaaS diseñado para la automatización administrativa y financiera bajo la Ley 675/2001.
 
-## 👥 Equipo de analistas
+## 👥 Equipo de analistas - Estudiantes Universidad Antonio Nariño - Facultad Ingenieria en Sistemas
 * **Joan Murillo** (Elicitación / Desarrollo fullstack)
 * **Andres Banderas** (UI-UX / Validación)
 * **Ivan Velasco** (Arquitectura / Backend)
